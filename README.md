@@ -1,4 +1,4 @@
-### Hi there, Please call me Palesa - Sotho name for beautiful flower 👋
+### Hi there, please call me Palesa - Sotho name for beautiful flower 👋
 
 <!--
 **MokoenaLee/MokoenaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
