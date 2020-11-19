@@ -1,4 +1,4 @@
-### Hi there, please call me Palesa - Sotho name for beautiful flower 👋
+### Hi there, please call me Palesa - that is my seSotho name for beautiful flower. Sesotho is one of South Africa's 11 official languages. 👋
 
 <!--
 **MokoenaLee/MokoenaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
