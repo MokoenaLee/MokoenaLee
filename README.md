@@ -1,4 +1,4 @@
-### Hi there, please call me Palesa - that is my seSotho name for beautiful flower. Sesotho is one of South Africa's 11 official languages. 👋
+### Hi there, welcome to my playground  👋
 
 <!--
 **MokoenaLee/MokoenaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
+Please call me Palesa ('P-ah-leh-sa') - that is my seSotho name for beautiful flower. Sesotho is one of South Africa's 11 official languages.
 
 - 🔭 I’m currently working on a Java REST API using Maven Framework and running locally on a Tomcat server
 - 🌱 I’m currently learning JavaScript, HTML5/CSS and a popular dance called Zanku legwork
