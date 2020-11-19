@@ -14,6 +14,6 @@ Please call me Palesa ('P-ah-leh-sa') - that is my seSotho name for beautiful fl
 - 💬 Ask me about Marianne Williamson's "A Return to Love"
 - 📫 How to reach me: leeann.mokoena@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I speak 3 languages: English,seSotho,Isizulu, Xitsonga
+- ⚡ Fun fact: I speak 4 languages: English,seSotho,Isizulu, Xitsonga
 
 
